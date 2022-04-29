@@ -1,0 +1,50 @@
+html {
+  box-sizing: border-box;
+}
+/*set certian text to be centered*/
+.center-text {
+  text-align: center;
+}
+/*set background color and size of header box.*/
+header {
+  background-color: #cbb3bf;
+  height: 200px;
+  margin: 0px 0px 50px 0px;
+  padding: 10px 0px 50px 0px;
+}
+/*set font and color of main heading*/
+h1 {
+  color: #5b2a86;
+  font-size: 75px;
+  font-family: "Impact";
+  margin: 50px 0px 25px 0px;
+}
+/*set font and color of secondary headings*/
+h2 {
+  color: #7d2e68;
+  font-size: 30px;
+  font-family: "Helvetica", "sans-serif";
+}
+/*set background color and font style and color of the entire web page*/
+body {
+  background-color: #eadaa2;
+  font-family: "Helvetica", "sans-serif";
+  color: #7d2e68;
+}
+/*set style of dividing rule lines*/
+hr {
+  height: 3px;
+  background-color: #5b2a86;
+}
+/*set link behavior*/
+a:hover {
+  color: #b49fcc;
+}
+/*set style of photo*/
+img{ border-radius: 50%;
+    position: absolute; 
+    top: 25px; left: 25px;
+}
+
+
+
