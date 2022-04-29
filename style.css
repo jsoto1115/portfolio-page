@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
 }
-/*set certian text to be centered*/
+/*set certain text to be centered*/
 .center-text {
   text-align: center;
 }
@@ -30,6 +30,7 @@ body {
   background-color: #eadaa2;
   font-family: "Helvetica", "sans-serif";
   color: #7d2e68;
+  margin: 0px 50px 
 }
 /*set style of dividing rule lines*/
 hr {
@@ -43,7 +44,7 @@ a:hover {
 /*set style of photo*/
 img{ border-radius: 50%;
     position: absolute; 
-    top: 25px; left: 25px;
+    top: 25px; 
 }
 
 
